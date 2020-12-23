@@ -1,0 +1,18 @@
+{
+  "name": "@shen/node-addon-clipboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": "true",
+  "scripts": {
+    "test": "node --napi-modules ./test/test_index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "gypfile": true,
+  "dependencies": {
+    "bindings": "^1.5.0",
+    "node-addon-api": "^3.0.2"
+  }
+}

@@ -1,0 +1,6 @@
+dist
+.vs
+node_modules
+.vscode
+TODOs.md
+*.log
